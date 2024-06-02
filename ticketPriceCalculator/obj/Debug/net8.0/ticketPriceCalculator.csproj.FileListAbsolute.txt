@@ -1,0 +1,15 @@
+/Users/paul/Desktop/Assignment/dcit318-assignment1-10976491/ticketPriceCalculator/bin/Debug/net8.0/ticketPriceCalculator
+/Users/paul/Desktop/Assignment/dcit318-assignment1-10976491/ticketPriceCalculator/bin/Debug/net8.0/ticketPriceCalculator.deps.json
+/Users/paul/Desktop/Assignment/dcit318-assignment1-10976491/ticketPriceCalculator/bin/Debug/net8.0/ticketPriceCalculator.runtimeconfig.json
+/Users/paul/Desktop/Assignment/dcit318-assignment1-10976491/ticketPriceCalculator/bin/Debug/net8.0/ticketPriceCalculator.dll
+/Users/paul/Desktop/Assignment/dcit318-assignment1-10976491/ticketPriceCalculator/bin/Debug/net8.0/ticketPriceCalculator.pdb
+/Users/paul/Desktop/Assignment/dcit318-assignment1-10976491/ticketPriceCalculator/obj/Debug/net8.0/ticketPriceCalculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/paul/Desktop/Assignment/dcit318-assignment1-10976491/ticketPriceCalculator/obj/Debug/net8.0/ticketPriceCalculator.AssemblyInfoInputs.cache
+/Users/paul/Desktop/Assignment/dcit318-assignment1-10976491/ticketPriceCalculator/obj/Debug/net8.0/ticketPriceCalculator.AssemblyInfo.cs
+/Users/paul/Desktop/Assignment/dcit318-assignment1-10976491/ticketPriceCalculator/obj/Debug/net8.0/ticketPriceCalculator.csproj.CoreCompileInputs.cache
+/Users/paul/Desktop/Assignment/dcit318-assignment1-10976491/ticketPriceCalculator/obj/Debug/net8.0/ticketPriceCalculator.sourcelink.json
+/Users/paul/Desktop/Assignment/dcit318-assignment1-10976491/ticketPriceCalculator/obj/Debug/net8.0/ticketPriceCalculator.dll
+/Users/paul/Desktop/Assignment/dcit318-assignment1-10976491/ticketPriceCalculator/obj/Debug/net8.0/refint/ticketPriceCalculator.dll
+/Users/paul/Desktop/Assignment/dcit318-assignment1-10976491/ticketPriceCalculator/obj/Debug/net8.0/ticketPriceCalculator.pdb
+/Users/paul/Desktop/Assignment/dcit318-assignment1-10976491/ticketPriceCalculator/obj/Debug/net8.0/ticketPriceCalculator.genruntimeconfig.cache
+/Users/paul/Desktop/Assignment/dcit318-assignment1-10976491/ticketPriceCalculator/obj/Debug/net8.0/ref/ticketPriceCalculator.dll
